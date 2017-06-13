@@ -14,3 +14,14 @@
 |-- taotao-parent
 |--taotao-portal
 `-- README.md
+
+### 开发工具和环境  
+Eclipse 4.5.0(Mars)，自带maven插件，需要手工安装svn插件。  
+Maven 3.3.3（开发工具自带）  
+Tomcat 7.0.53（Maven Tomcat Plugin）  
+JDK 1.7  
+Mysql 5.6  
+Nginx 1.8.0  
+Redis 3.0.0  
+Win7 操作系统  
+SVN（版本管理）  
