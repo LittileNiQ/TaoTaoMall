@@ -14,7 +14,7 @@
 |-- taotao-parent
 |--taotao-portal
 `-- README.md
-
+```
 ### 开发工具和环境  
 Eclipse 4.5.0(Mars)，自带maven插件，需要手工安装svn插件。  
 Maven 3.3.3（开发工具自带）  
